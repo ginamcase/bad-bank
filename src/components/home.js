@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 function Home() {
   return (
     <Card
-      bgcolor="info"
+      bgcolor="success"
       txtcolor="white"
       header="BadBank"
       title="Welcome to BadBank"

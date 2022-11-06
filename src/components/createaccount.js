@@ -52,7 +52,7 @@ function CreateAccount() {
 
   return (
     <Card
-      bgcolor="info"
+      bgcolor="warning"
       txtcolor="dark"
       header="Complete the fields below to create your new account"
       status={status}

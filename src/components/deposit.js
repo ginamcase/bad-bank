@@ -37,7 +37,7 @@ function Deposit() {
 
   return (
     <Card
-      bgcolor="info"
+      bgcolor="warning"
       txtcolor="dark"
       style="width: 25rem;"
       header="Make a Deposit"

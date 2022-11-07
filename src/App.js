@@ -2,7 +2,7 @@ import * as React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import { BrowserRouter } from "react-router-dom";
 import { UserContext } from "./components/context";
-import "./App.css";
+import "./public/app.css";
 import NavBar from "./components/navbar";
 import Home from "./components/home";
 import AllData from "./components/alldata";
